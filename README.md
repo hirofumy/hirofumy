@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hirofumy
-- 👀 I’m interested in sports, art and misic
+- 👀 I’m interested in sports, art and music
 - 🌱 I’m currently learning programming lol
-- 💞️ I’m looking to collaborate on studing stats about MLB
+- 💞️ I’m looking for to collaborate on studing stats about MLB
 - 📫 How to reach me ...
 
 <!---
